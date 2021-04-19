@@ -20,4 +20,4 @@ information will be a key factor to browse videos faster.
 
 <img src="images/finop5.PNG" width="800" height="500">  <img src="images/finop6.PNG" width="800" height="500">
 
-<img src="images/finop7.PNG" width="800" height="500">
+

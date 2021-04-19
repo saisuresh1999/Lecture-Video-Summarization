@@ -14,7 +14,7 @@ necessary information and Maximum-Cosine-Value algorithm (our own
 algorithm) for producing cosine values to give rating for the video. These 
 information will be a key factor to browse videos faster.
 
-<img src="images/finop1.PNG" width="800" height="500">   <img src="images/finop2.PNG" width="800" height="500">
+<img src="images/abari1.PNG" width="800" height="500">   <img src="images/abari2.PNG" width="800" height="500">
 
 <img src="images/finop3.PNG" width="800" height="500">  <img src="images/finop4.PNG" width="800" height="500">
 
